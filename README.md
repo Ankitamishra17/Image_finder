@@ -25,7 +25,7 @@ A simple and responsive web application that allows users to search and display 
 1. Clone the repository:
 
 ```bash
-(https://github.com/Ankitamishra17/Image_finder.git)
+[https://github.com/Ankitamishra17/Image_finder.git]
 
 🔑 API Key
 This project uses the Unsplash API / Pixabay API. To use it:
