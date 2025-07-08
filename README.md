@@ -4,7 +4,7 @@ A simple and responsive web application that allows users to search and display 
 
 ## 🚀 Live Demo
 
-[Click here to view the live site](#)  [image-finder-rose-eight.vercel.app]<!-- Replace with your live link, e.g., GitHub Pages or Netlify -->
+[Click here to view the live site](image-finder-rose-eight.vercel.app)  [image-finder-rose-eight.vercel.app]<!-- Replace with your live link, e.g., GitHub Pages or Netlify -->
 
 ## 📸 Features
 
