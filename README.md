@@ -4,7 +4,8 @@ A simple and responsive web application that allows users to search and display 
 
 ## 🚀 Live Demo
 
-[Click here to view the live site](image-finder-rose-eight.vercel.app)  <!-- Replace with your live link, e.g., GitHub Pages or Netlify -->
+[Click here to view the live site](https://image-finder-rose-eight.vercel.app)
+ <!-- Replace with your live link, e.g., GitHub Pages or Netlify -->
 
 ## 📸 Features
 
@@ -27,12 +28,22 @@ A simple and responsive web application that allows users to search and display 
 ```bash
 [https://github.com/Ankitamishra17/Image_finder.git]
 
-🔑 API Key
-This project uses the Unsplash API / Pixabay API. To use it:
+## 🔑 API Key
 
-Create a free account on the API provider's website.
-Get your API key.
-Replace 'YOUR_API_KEY_HERE' in script.js with your actual API key.
+This project uses the **Unsplash API**.
+
+To use it:
+
+1. Create a free account on [Unsplash Developers](https://unsplash.com/developers).
+2. Generate your API key.
+3. Open the `script.js` file in your project.
+4. Replace `'YOUR_API_KEY_HERE'` with your actual API key.
+
+**Example:**
+
+```javascript
+const apiKey = "YOUR_ACTUAL_API_KEY";
+
 
 🤝 Contributing
 Contributions are welcome! Please fork the repo and submit a pull request.
@@ -40,6 +51,8 @@ Contributions are welcome! Please fork the repo and submit a pull request.
 📬 Contact
 For questions or feedback, feel free to reach out:
 
-GitHub: @yourusername
+GitHub: @Ankitamishra17
+
+
 
 
