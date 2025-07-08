@@ -1,5 +1,3 @@
-# Image_finder
-
 # 🖼️ Image Finder
 
 A simple and responsive web application that allows users to search and display images using an external API. Built with **HTML**, **CSS**, and **JavaScript**.
@@ -27,4 +25,13 @@ A simple and responsive web application that allows users to search and display 
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/image-finder.git
+(https://github.com/Ankitamishra17/Image_finder.git)
+
+🔑 API Key
+This project uses the Unsplash API / Pixabay API. To use it:
+
+Create a free account on the API provider's website.
+
+Get your API key.
+
+Replace 'YOUR_API_KEY_HERE' in script.js with your actual API key.
